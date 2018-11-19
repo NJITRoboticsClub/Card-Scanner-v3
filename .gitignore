@@ -1,3 +1,5 @@
+__pycache__/
+
 credentials.json
 GUI_testing.py
 my-secret.json
